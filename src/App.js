@@ -1,6 +1,5 @@
-import { Fragment } from 'react';
-import './App.css';
-import {Canvas} from "@react-three/fiber"
+import { Fragment } from "react";
+import "./App.css";
 function App() {
   return (
     <Fragment>
